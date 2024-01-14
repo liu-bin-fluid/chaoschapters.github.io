@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![logo image](/images/logo_1.png){: .align-center width="100%"}
+![](/images/logo_1.png){: .align-center width="100%"}
 
 Dr. Bin Liu joined Newcastle University, Singapore campus, as Assistant Professor in Marine and Offshore Technology since Dec 2022. Before joining Newcastle University, he worked as Research Associate in Imperial College London and Postdoctoral Fellow in Nanyang Technological University. He received Bachelor’s Degree (specialisation in Aeronautical Engineering) and Ph.D Degree from Department of Mechanical Engineering in National University of Singapore in 2015 and 2020, respectively. He has years of experience working on finite element methods, fluid-structure interaction, flow control, hydrodynamics stability and heat & mass transfer.
 
