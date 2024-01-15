@@ -18,6 +18,7 @@ Professional Experience
 ======
 * Assistant Professor, Newcastle University, UK
 * Guest Editor of Special Issue, [Processes, MDPI: Flow, Heat and Mass Transfer in Energy Utilization](https://www.mdpi.com/journal/processes/special_issues/OHHY4KSS06)
+* Visiting Scholar, Department of Mechanical Engineering, Xi'an Jiaotong University
 * Research Associate, Imperial College London, UK
 * Postdoc Fellow, Nanyang Technological University, SG
 
@@ -50,4 +51,9 @@ Teaching
   
 Service and Membership
 ======
-* Currently signed in to 43 different slack teams
+* Guest Editor, Special Issue, MDPI
+* Visiting Scholar, Department of Mechanical Engineering, Xi'an Jiaotong University
+* Reviewer, Journal of Fluid Mechanics
+* Reviewer, Physics of Fluids
+* Reviewer, Journal of Fluid and Structure
+* Reviewer, Journal of Computational Physics
