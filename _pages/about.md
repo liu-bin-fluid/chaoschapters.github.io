@@ -19,12 +19,27 @@ Besides the aforementioned research areas, his current research interests includ
 # Professional Career
 
 * Assistant Professor, Newcastle University, UK
-* Guest Editor of Special Issue, Processes, MDPI: Flow, Heat and Mass Transfer in Energy Utilization (https://www.mdpi.com/journal/processes/special_issues/OHHY4KSS06)
+* Guest Editor of Special Issue, [Processes, MDPI: Flow, Heat and Mass Transfer in Energy Utilization](https://www.mdpi.com/journal/processes/special_issues/OHHY4KSS06)
 * Research Associate, Imperial College London, UK
 * Postdoc Fellow, Nanyang Technological University, SG
 
 # Education
 
 ## Ph.D
+### Institute: Department of Mechanical Engineering, National University of Singapore, SG
+### Year: 2020
 
 ## Degree
+### Institute: Department of Mechanical Engineering, National University of Singapore, SG
+### Specialization: Aeronautical Engineering
+### Year: 2015
+
+# Research Interest
+
+* Fluid-structure Interaction
+* Renewable Energy (Aerodynamics and Aeroelasticity of Wind Turbine)
+* Flow Control and Hydrodynamics Stability
+* Heat & Mass Transfer
+* Machine Learning for Fluid Dynamics
+* Finite Element Methods and Turbulence Modeling
+
