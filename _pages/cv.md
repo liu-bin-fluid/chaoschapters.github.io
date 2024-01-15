@@ -22,7 +22,7 @@ Professional Experience
 * Research Associate, Imperial College London, UK
 * Postdoc Fellow, Nanyang Technological University, SG
 
-Skills
+Research Interests
 ======
 * Fluid-structure Interaction
 * Renewable Energy (Aerodynamics and Aeroelasticity of Wind Turbine)
