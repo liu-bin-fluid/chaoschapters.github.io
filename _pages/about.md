@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to FlowMatrix Research Group"
+title: "Welcome to ChaosChapters"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
