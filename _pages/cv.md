@@ -50,9 +50,5 @@ Teaching
   
 Service and Membership
 ======
-* Guest Editor, Special Issue, MDPI
-* Visiting Scholar, Department of Mechanical Engineering, Xi'an Jiaotong University
-* Reviewer, Journal of Fluid Mechanics
-* Reviewer, Physics of Fluids
-* Reviewer, Journal of Fluid and Structure
-* Reviewer, Journal of Computational Physics
+* Guest Editor of Special Issue, MDPI
+* Reviewer of Journal of Fluid Mechanics, Physics of Fluids, Journal of Computational Physics
