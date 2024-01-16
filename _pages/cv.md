@@ -18,7 +18,6 @@ Professional Experience
 ======
 * Assistant Professor, Newcastle University, UK
 * Guest Editor of Special Issue, [Processes, MDPI: Flow, Heat and Mass Transfer in Energy Utilization](https://www.mdpi.com/journal/processes/special_issues/OHHY4KSS06)
-* Visiting Scholar, Department of Mechanical Engineering, Xi'an Jiaotong University
 * Research Associate, Imperial College London, UK
 * Postdoc Fellow, Nanyang Technological University, SG
 
